@@ -7,3 +7,8 @@ else:
 	ah3! you've take the first step! Keep going!
 babdsbdafkoefkvklklklk
 
+1
+2
+3
+4
+5
